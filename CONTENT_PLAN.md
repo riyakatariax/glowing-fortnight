@@ -1,7 +1,7 @@
 # Portfolio website: content plan
 
 A working plan for Riya Kataria's portfolio site, based on the four versions of the CV
-(Comms, Entertainment/Music, Business, Politics) and Riya's own description of what she does.
+(Comms, Entertainment/Music, Business, Politics) and Riya's own description of the work.
 
 ## Positioning
 
